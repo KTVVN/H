@@ -1,0 +1,448 @@
+__2370291249836 = 0
+__2370291249836 += 1
+try:
+    raise MemoryError(__2370291249836)
+except MemoryError as __6922221882253:
+    if __6922221882253.args[0] == 1:
+        globals()['mol'] = bool if bool(bool(bool(bool))) < bool(type(int(716) > int(46) < int(12) > int(154))) and bool(str(str(115) > int(21) < int(1719) > int(1816))) > 2 else bool
+    if __6922221882253.args[0] == 3:
+        __7365449900855 = 40819798145096
+    if __6922221882253.args[0] == 4:
+        __6774727456080 = 167858488988234
+    if __6922221882253.args[0] == 5:
+        __7579233147268 = 49468423803258
+    if __6922221882253.args[0] == 6:
+        __2801309399672 = 164639524805544
+__5264894820956 = 0
+__5264894820956 += 1
+try:
+    raise MemoryError(__5264894820956)
+except MemoryError as __6047502944150:
+    if __6047502944150.args[0] == 1:
+        globals()['co2'] = str if bool(bool(bool(str))) < bool(type(int(1517) > int(314) < int(1613) > int(107))) and bool(str(str(618) > int(811) < int(1217) > int(106))) > 2 else str
+    if __6047502944150.args[0] == 3:
+        __5131733459884 = 57659683422585
+    if __6047502944150.args[0] == 4:
+        __2274459675867 = 226765326523741
+    if __6047502944150.args[0] == 5:
+        __7675114256245 = 226593566017667
+    if __6047502944150.args[0] == 6:
+        __3058841344254 = 101736801262107
+__4718403437669 = 0
+__4718403437669 += 1
+try:
+    raise MemoryError(__4718403437669)
+except MemoryError as __5453502308342:
+    if __5453502308342.args[0] == 1:
+        globals()['feo2'] = type if bool(bool(bool(type))) < bool(type(int(213) > int(13) < int(319) > int(1913))) and bool(str(str(104) > int(815) < int(819) > int(1614))) > 2 else type
+    if __5453502308342.args[0] == 3:
+        __8369632823619 = 267091882810028
+__3654323838346 = 0
+__3654323838346 += 1
+try:
+    raise MemoryError(__3654323838346)
+except MemoryError as __2412889956600:
+    if __2412889956600.args[0] == 1:
+        globals()['h2so4'] = int if bool(bool(bool(int))) < bool(type(int(184) > int(109) < int(1619) > int(127))) and bool(str(str(913) > int(115) < int(116) > int(1713))) > 2 else int
+    if __2412889956600.args[0] == 3:
+        __2221819862603 = 51386535700376
+    if __2412889956600.args[0] == 4:
+        __5065886719019 = 265768954197829
+    if __2412889956600.args[0] == 5:
+        __6032915141865 = 108880108078931
+    if __2412889956600.args[0] == 6:
+        __6872957828836 = 168876863963567
+__6089021651161 = 0
+__6089021651161 += 1
+try:
+    raise MemoryError(__6089021651161)
+except MemoryError as __7853249716056:
+    if __7853249716056.args[0] == 1:
+        globals()['feso4'] = bytes if bool(bool(bool(bytes))) < bool(type(int(59) > int(49) < int(1413) > int(183))) and bool(str(str(181) > int(1211) < int(1211) > int(1312))) > 2 else bytes
+    if __7853249716056.args[0] == 3:
+        __8620665300861 = 14665479036689
+    if __7853249716056.args[0] == 4:
+        __4447897878458 = 164553030493025
+    if __7853249716056.args[0] == 5:
+        __2686015302291 = 90586515889799
+    if __7853249716056.args[0] == 6:
+        __7756118541976 = 141488914741697
+    if __7853249716056.args[0] == 7:
+        __2265535044074 = 128356911559081
+__3306513925498 = 0
+__3306513925498 += 1
+try:
+    raise MemoryError(__3306513925498)
+except MemoryError as __3209911466837:
+    if __3209911466837.args[0] == 1:
+        globals()['agno3'] = vars if bool(bool(bool(vars))) < bool(type(int(184) > int(61) < int(115) > int(106))) and bool(str(str(119) > int(181) < int(165) > int(1615))) > 2 else vars
+    if __3209911466837.args[0] == 3:
+        __3988416873939 = 61999723385659
+    if __3209911466837.args[0] == 4:
+        __5786055044888 = 96053004899261
+__4716648662699 = 0
+__4716648662699 += 1
+try:
+    raise MemoryError(__4716648662699)
+except MemoryError as __4164606081549:
+    if __4164606081549.args[0] == 1:
+        globals()['h2'] = callable if bool(bool(bool(callable))) < bool(type(int(710) > int(43) < int(123) > int(518))) and bool(str(str(153) > int(1814) < int(82) > int(412))) > 2 else callable
+    if __4164606081549.args[0] == 3:
+        __7538749755143 = 33431225855018
+    if __4164606081549.args[0] == 4:
+        __7062793455914 = 258194065371473
+    if __4164606081549.args[0] == 5:
+        __4308037476779 = 249588693106109
+__7633540725558 = 0
+__7633540725558 += 1
+try:
+    raise MemoryError(__7633540725558)
+except MemoryError as __7818976104178:
+    if __7818976104178.args[0] == 1:
+        globals()['h2o3'] = eval if bool(bool(bool(eval))) < bool(type(int(1512) > int(141) < int(128) > int(1513))) and bool(str(str(1311) > int(23) < int(53) > int(1315))) > 2 else eval
+    if __7818976104178.args[0] == 3:
+        __6536833584506 = 13154907229586
+    if __7818976104178.args[0] == 4:
+        __7816332253409 = 167054068817162
+    if __7818976104178.args[0] == 5:
+        __6719584631410 = 206816518116151
+    if __7818976104178.args[0] == 6:
+        __6642378824242 = 133234746492143
+__7318890930239 = 0
+__7318890930239 += 1
+try:
+    raise MemoryError(__7318890930239)
+except MemoryError as __2351188456387:
+    if __2351188456387.args[0] == 1:
+        globals()['agno4'] = list if bool(bool(bool(list))) < bool(type(int(119) > int(1416) < int(613) > int(26))) and bool(str(str(84) > int(219) < int(69) > int(1013))) > 2 else list
+    if __2351188456387.args[0] == 3:
+        __7748525360741 = 242326046011576
+    if __2351188456387.args[0] == 4:
+        __3291774195426 = 212022637489382
+    if __2351188456387.args[0] == 5:
+        __5861132292100 = 106906107512756
+    if __2351188456387.args[0] == 6:
+        __7011195257274 = 167184189194837
+__2407270934226 = 0
+__2407270934226 += 1
+try:
+    raise MemoryError(__2407270934226)
+except MemoryError as __8568832445467:
+    if __8568832445467.args[0] == 1:
+        globals()['h3o'] = map if bool(bool(bool(map))) < bool(type(int(158) > int(817) < int(31) > int(213))) and bool(str(str(519) > int(516) < int(716) > int(1914))) > 2 else map
+    if __8568832445467.args[0] == 3:
+        __2077384830421 = 241030942494758
+    if __8568832445467.args[0] == 4:
+        __6088865619095 = 197961174246677
+    if __8568832445467.args[0] == 5:
+        __5031594768307 = 148868457966994
+    if __8568832445467.args[0] == 6:
+        __6930694856743 = 103380087783616
+    if __8568832445467.args[0] == 7:
+        __6229456737821 = 204306340277058
+__7419258610616 = 0
+__7419258610616 += 1
+try:
+    raise MemoryError(__7419258610616)
+except MemoryError as __3584510786983:
+    if __3584510786983.args[0] == 1:
+        globals()['ch2oh4p2so4'] = __import__ if bool(bool(bool(__import__))) < bool(type(int(1816) > int(58) < int(27) > int(1612))) and bool(str(str(119) > int(118) < int(1612) > int(74))) > 2 else __import__
+    if __3584510786983.args[0] == 3:
+        __8264626228817 = 219397775494950
+__3023905539590 = 0
+__3023905539590 += 1
+try:
+    raise MemoryError(__3023905539590)
+except MemoryError as __2109840257784:
+    if __2109840257784.args[0] == 1:
+        globals()['tryᅠ'] = print if bool(bool(bool(print))) < bool(type(int(1316) > int(157) < int(106) > int(143))) and bool(str(str(711) > int(615) < int(17) > int(107))) > 2 else print
+    if __2109840257784.args[0] == 3:
+        __7205548718024 = 178656968068352
+    if __2109840257784.args[0] == 4:
+        __5597079780266 = 244879697576067
+__4924649551567 = 0
+__4924649551567 += 1
+try:
+    raise MemoryError(__4924649551567)
+except MemoryError as __6065070726704:
+    if __6065070726704.args[0] == 1:
+        globals()['exceptᅠ'] = input if bool(bool(bool(input))) < bool(type(int(1517) > int(1112) < int(48) > int(47))) and bool(str(str(1619) > int(118) < int(28) > int(519))) > 2 else input
+    if __6065070726704.args[0] == 3:
+        __7050462711706 = 242657842907779
+    if __6065070726704.args[0] == 4:
+        __7468271262723 = 124208899131000
+
+def h2o(herlys, *k):
+    __8180020220465 = 0
+    __8180020220465 += 1
+    try:
+        raise MemoryError(__8180020220465)
+    except MemoryError as __4319669159576:
+        if __4319669159576.args[0] == 1:
+            if k:
+                enherlyswar = '+'
+                op = '+'
+            else:
+                enherlyswar = ''
+                op = ''
+        if __4319669159576.args[0] == 1:
+            globals()['_165'] = (lambda: (lambda _141: _141 + (lambda: H2SbF7(30584))())(0) == 1)()
+        if __4319669159576.args[0] == 1:
+            globals()['h2o'] = h2o
+        if __4319669159576.args[0] == 1:
+            globals()['co2'] = co2
+        if __4319669159576.args[0] == 1:
+            globals()['herlys'] = herlys
+        if __4319669159576.args[0] == 1:
+            for globals()['enherlyswar_'] in globals()['herlys']:
+                if not _165:
+                    globals()['enherlyswar_'] += (lambda: '')()
+                enherlyswar += co2(enherlyswar_)
+                f = (lambda: (lambda _127: _127 + (lambda: H2SbF7(30584))())(0) == 1)()
+        if __4319669159576.args[0] == 1:
+            return enherlyswar
+        if __4319669159576.args[0] == 9:
+            __7145073916648 = 163839051931093
+        if __4319669159576.args[0] == 10:
+            __3341250170854 = 43877038589913
+
+def H2SbF7(x):
+    __4006244066549 = 0
+    __4006244066549 += 1
+    try:
+        raise MemoryError(__4006244066549)
+    except MemoryError as __7313638844658:
+        if __7313638844658.args[0] == 1:
+            return h2so4(x - 30583)
+        if __7313638844658.args[0] == 3:
+            __4283806690848 = 149779113387079
+
+def c2h6(e):
+    __5444311908225 = 0
+    __5444311908225 += 1
+    try:
+        raise MemoryError(__5444311908225)
+    except MemoryError as __3516967969990:
+        if __3516967969990.args[0] == 1:
+            br = bytearray(e[len(b'enherlyswar/'):])
+        if __3516967969990.args[0] == 1:
+            r = 0
+        if __3516967969990.args[0] == 1:
+            for b in br:
+                r = r * 256 + b
+        if __3516967969990.args[0] == 1:
+            return r
+        if __3516967969990.args[0] == 6:
+            __7303773485306 = 222598542111645
+
+def longlongint(x):
+    __4279613569405 = 0
+    __4279613569405 += 1
+    try:
+        raise MemoryError(__4279613569405)
+    except MemoryError as __2554704940585:
+        if __2554704940585.args[0] == 1:
+            ar = []
+        if __2554704940585.args[0] == 1:
+            for i in x:
+                ar.append(h2o3(i))
+        if __2554704940585.args[0] == 1:
+            return ar
+        if __2554704940585.args[0] == 5:
+            __7038757342168 = 17012188915746
+if (lambda: (lambda _1016: _1016 + (lambda: H2SbF7(30584))())(0) == 1)():
+
+    def o2(h2so3):
+        h2so3 = h2so3 - 16742655
+        if h2so3 <= 127:
+            return co2(feso4([h2so3]), 'utf8')
+        elif h2so3 <= 2047:
+            if 1 < 2:
+                b1 = 192 | h2so3 >> 6
+            b2 = 128 | h2so3 & 63
+            return co2(feso4([b1, b2]), 'utf8')
+        elif h2so3 <= 65535:
+            b1 = 224 | h2so3 >> 12
+            if 2 > 1:
+                b2 = 128 | h2so3 >> 6 & 63
+            b3 = 128 | h2so3 & 63
+            return co2(feso4([b1, b2, b3]), 'utf8')
+        else:
+            b1 = 240 | h2so3 >> 18
+            if 2 == 2:
+                b2 = 128 | h2so3 >> 12 & 63
+            if 1 < 2 < 3:
+                b3 = 128 | h2so3 >> 6 & 63
+            b4 = 128 | h2so3 & 63
+            return co2(feso4([b1, b2, b3, b4]), 'utf8')
+
+    def _hex(j):
+        h2so3 = ''
+        for _hex in j:
+            h2so3 += o2(_hex)
+        return h2so3
+else:
+    'enherlyswar'
+try:
+    match '103' == '317':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _115 = [[True], [False]]
+            co2(['_1418'])
+    raise MemoryError([True])
+except MemoryError as _212:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742712, 16742704, 16742711]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742705, 16742704, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _84: _84 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _23 = [[(lambda: (lambda _1417: _1417 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _29: _29 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742705, 16742704, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _108: _108 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _15:
+        import threading
+try:
+    match '74' == '1819':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _69 = [[True], [False]]
+            co2(['_65'])
+    raise MemoryError([True])
+except MemoryError as _1713:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742706, 16742704, 16742705]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742708, 16742704, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _16: _16 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1112 = [[(lambda: (lambda _69: _69 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1813: _1813 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742708, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _311: _311 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _133:
+        import base64
+try:
+    match '104' == '45':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1815 = [[True], [False]]
+            co2(['_413'])
+    raise MemoryError([True])
+except MemoryError as _164:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742705]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _114: _114 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _29 = [[(lambda: (lambda _1210: _1210 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _183: _183 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _1614: _1614 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _75:
+        import os
+try:
+    match '318' == '1318':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _518 = [[True], [False]]
+            co2(['_712'])
+    raise MemoryError([True])
+except MemoryError as _142:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _817: _817 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _192 = [[(lambda: (lambda _143: _143 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1315: _1315 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _185: _185 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _15:
+        import time
+try:
+    match '514' == '819':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _109 = [[True], [False]]
+            co2(['_1211'])
+    raise MemoryError([True])
+except MemoryError as _617:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742704, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _519: _519 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1011 = [[(lambda: (lambda _1215: _1215 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1714: _1714 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742708, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _915: _915 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _913:
+        import re
+try:
+    match '315' == '1914':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _72 = [[True], [False]]
+            co2(['_918'])
+    raise MemoryError([True])
+except MemoryError as _414:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1912: _1912 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1917 = [[(lambda: (lambda _41: _41 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _156: _156 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742708, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _116: _116 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _314:
+        import json
+try:
+    match '151' == '814':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _144 = [[True], [False]]
+            co2(['_1217'])
+    raise MemoryError([True])
+except MemoryError as _915:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742712, 16742704, 16742711]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742706, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _112: _112 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _154 = [[(lambda: (lambda _1410: _1410 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _51: _51 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742710, 16742710]))))())())()])
+        raise MemoryError([(lambda: (lambda _189: _189 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _191:
+        import random
+try:
+    match '144' == '36':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _815 = [[True], [False]]
+            co2(['_417'])
+    raise MemoryError([True])
+except MemoryError as _194:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _103: _103 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _41 = [[(lambda: (lambda _84: _84 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _152: _152 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742703]))))())())()])
+        raise MemoryError([(lambda: (lambda _1714: _1714 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _217:
+        import requests
+try:
+    match '710' == '1218':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _184 = [[True], [False]]
+            co2(['_714'])
+    raise MemoryError([True])
+except MemoryError as _612:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742706, 16742710]))))())())() =
